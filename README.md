@@ -15,7 +15,7 @@ https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
 Elasticsearch：https://es.xiaoleilu.com/020_Distributed_Cluster/15_Add_an_index.html    
 
 ## 站点资源     
-极客学院：http://wiki.jikexueyuan.com/list/php/   
+极客学院：http://wiki.jikexueyuan.com/list/php/      
 鸟哥：http://www.laruence.com/licence (无人不知吧)
 
 
