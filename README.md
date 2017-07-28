@@ -5,8 +5,9 @@
 http://php.net/manual/zh/
     
 
-## 设计模式系列     
-https://www.shiyanlou.com/courses/699    
+## 设计模式系列     
+推荐这个：http://www.awaimai.com/patterns    
+实验楼：https://www.shiyanlou.com/courses/699    
 https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html    
 
 
