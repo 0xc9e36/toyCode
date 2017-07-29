@@ -14,7 +14,7 @@ http://php.net/manual/zh/
 ５．迪米特原则：实体尽量与其他实体发生相互作用，使得各模块相互独立    
 ６．单一职责原则：一个类只负责一个功能领域    　　　　
 
-参考资料　　　　
+参考资料     
 推荐这个：http://www.awaimai.com/patterns    
 实验楼：https://www.shiyanlou.com/courses/699     
 https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html    
