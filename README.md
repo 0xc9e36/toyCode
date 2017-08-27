@@ -1,6 +1,6 @@
 # 编程资源集合    
 
-## 手册    
+## php手册    
 http://php.net/manual/zh/
     
 
@@ -32,7 +32,7 @@ https://design-patterns.readthedocs.io/zh_CN/latest/read_uml.html
 
 
 ## 全文索引     
-Elasticsearch：https://es.xiaoleilu.com/020_Distributed_Cluster/15_Add_an_index.html    
+Elasticsearch：https://es.xiaoleilu.com/    
 
 ## 站点资源     
 极客学院：http://wiki.jikexueyuan.com/list/php/      
@@ -43,6 +43,6 @@ Elasticsearch：https://es.xiaoleilu.com/020_Distributed_Cluster/15_Add_an_index
 Charles：http://blog.csdn.net/lmmilove/article/details/50244537     
 
 
-## docker教程
+## docker教程    
 http://www.web3.xin/code/911.html    
 
