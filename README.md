@@ -46,3 +46,10 @@ Elasticsearch：https://es.xiaoleilu.com/
 ## docker    
 * http://www.web3.xin/code/911.html    
 
+
+## Rabbit MQ    
+* php版：https://rabbitmq.shujuwajue.com/    
+
+
+
+
