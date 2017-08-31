@@ -14,8 +14,7 @@ http://php.net/manual/zh/
 Elasticsearch：https://es.xiaoleilu.com/    
 
 ## 站点资源     
-* 极客学院：http://wiki.jikexueyuan.com/list/php/      
-* 鸟哥：http://www.laruence.com/licence (无人不知吧)
+* 极客学院：http://www.jikexueyuan.com/      
 
 
 ## 抓包分析     
@@ -34,5 +33,11 @@ Elasticsearch：https://es.xiaoleilu.com/
 * 《深入理解计算机系统》      
 * 《算法导论》    
 * 《UNIX环境高级编程》    
+
+##  值得关注的博客    
+* 鸟哥：http://www.laruence.com/licence (无人不知吧)    
+* 阮一峰：http://www.ruanyifeng.com/home.html    
+* 廖雪峰：https://www.liaoxuefeng.com/    
+
 
 
