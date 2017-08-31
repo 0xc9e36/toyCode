@@ -30,5 +30,9 @@ Elasticsearch：https://es.xiaoleilu.com/
 * php版：https://rabbitmq.shujuwajue.com/    
 
 
+##  书籍    
+* 深入理解计算机系统    
+* 算法导论    
+* UNIX环境高级编程    
 
 
