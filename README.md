@@ -21,7 +21,7 @@ Elasticsearch：https://es.xiaoleilu.com/
 * Charles：http://blog.csdn.net/lmmilove/article/details/50244537     
 
 
-## docker    
+## Docker    
 * http://www.web3.xin/code/911.html    
 
 
@@ -34,10 +34,16 @@ Elasticsearch：https://es.xiaoleilu.com/
 * 《算法导论》    
 * 《UNIX环境高级编程》    
 
+
 ##  值得关注的博客    
 * 鸟哥：http://www.laruence.com/licence (无人不知吧)    
 * 阮一峰：http://www.ruanyifeng.com/home.html    
 * 廖雪峰：https://www.liaoxuefeng.com/    
+* 酷壳：https://coolshell.cn/    
+* 阿里云中间件：http://jm.taobao.org/    
+* 陶辉：http://blog.csdn.net/russell_tao    
+
+
 
 
 
