@@ -43,7 +43,8 @@ Elasticsearch：https://es.xiaoleilu.com/
 
 ## 站点资源     
 * 极客学院：http://www.jikexueyuan.com/    
-* courseahttps://www.coursera.org/    
-
+* coursea：https://www.coursera.org/    
+* stackoverflow：https://stackoverflow.com/
+* segmentfaulthttps://segmentfault.com/
 
 
