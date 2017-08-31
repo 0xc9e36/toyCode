@@ -46,5 +46,6 @@ Elasticsearch：https://es.xiaoleilu.com/
 * coursea：https://www.coursera.org/    
 * stackoverflow：https://stackoverflow.com/
 * segmentfaulthttps://segmentfault.com/
+* ubuntuhttps://wiki.ubuntu.com.cn/%E9%A6%96%E9%A1%B5    
 
 
