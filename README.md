@@ -45,7 +45,7 @@ Elasticsearch：https://es.xiaoleilu.com/
 * 极客学院：http://www.jikexueyuan.com/    
 * coursea：https://www.coursera.org/    
 * stackoverflow：https://stackoverflow.com/
-* segmentfaulthttps://segmentfault.com/
-* ubuntuhttps://wiki.ubuntu.com.cn/%E9%A6%96%E9%A1%B5    
+* segmentfault：https://segmentfault.com/
+* ubuntu：https://wiki.ubuntu.com.cn/%E9%A6%96%E9%A1%B5    
 
 
