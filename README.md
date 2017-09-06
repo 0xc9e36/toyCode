@@ -48,4 +48,6 @@ Elasticsearch：https://es.xiaoleilu.com/
 * segmentfault：https://segmentfault.com/
 * ubuntu：https://wiki.ubuntu.com.cn/%E9%A6%96%E9%A1%B5    
 
-
+## 版本控制
+* git教程：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+* svn 教程：http://www.runoob.com/svn/svn-tutorial.html
