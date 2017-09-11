@@ -51,3 +51,7 @@ Elasticsearch：https://es.xiaoleilu.com/
 ## 版本控制
 * git教程：https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 * svn 教程：http://www.runoob.com/svn/svn-tutorial.html
+
+## 数据结构与算法
+* LeetCode：https://leetcode.com/
+* LintCode：http://www.lintcode.com/zh-cn/problem/
