@@ -1,8 +1,4 @@
-# 编程资源整理     
-
-## php官方手册    
-http://php.net/manual/zh/          
-
+# 资源 ： 计算机 & 编程 & 网络
 
 ## 设计模式系列    
 * 推荐这个 : http://www.awaimai.com/patterns    
@@ -41,8 +37,9 @@ Elasticsearch：https://es.xiaoleilu.com/
 * 陶辉：http://blog.csdn.net/russell_tao    
 
 
-## 站点资源     
-* 极客学院：http://www.jikexueyuan.com/    
+## 站点资源  
+* php手册：Manual
+* 极客学院：http://www.jikexueyuan.com/    
 * coursea：https://www.coursera.org/    
 * stackoverflow：https://stackoverflow.com/
 * segmentfault：https://segmentfault.com/
