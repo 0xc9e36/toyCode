@@ -46,7 +46,8 @@
 * [阮一峰](http://www.ruanyifeng.com/home.html)：知识分享者 
 * [廖雪峰](https://www.liaoxuefeng.com/)：git教程很不错哦 
 * [酷壳](https://coolshell.cn/)：左耳朵耗子   
-* [阿里云中间件团队](http://jm.taobao.org)    
+* [阿里云中间件团队](http://jm.taobao.org) 
+* [美团点评技术团队](https://tech.meituan.com/)
 * [陶辉](http://blog.csdn.net/russell_tao) 
 * [小土刀](http://wdxtub.com/)
 * [董西成](http://dongxicheng.org/)：干货很多
