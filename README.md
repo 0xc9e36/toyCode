@@ -67,3 +67,6 @@
 ## 刷题练习
 * [LeetCode](https://leetcode.com/)：每道题后面有讨论区，部分题目收费
 * [LintCode](http://www.lintcode.com/zh-cn/problem/)：免费
+
+## 正则
+* [30分钟入门](http://www.jb51.net/tools/zhengze.html#greedyandlazy)
