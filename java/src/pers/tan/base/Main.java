@@ -8,6 +8,5 @@ package pers.tan.base;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("真的吗，感觉你在骗我");
     }
 }
