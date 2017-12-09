@@ -74,6 +74,10 @@ print(t0)
 t1 = (1,)
 print(t1)
 
+s1 = set([1,2,3])
+s2 = set([3,4,5])
+print(s1 & s2)
+
 
 
 

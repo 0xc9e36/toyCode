@@ -29,3 +29,9 @@ str = 'A中国'
 
 print('%02d-%02d' % (3, 1))
 print('%.2f' % 3.1415926)
+
+str = b'\xe4\xb8\xad\xe6\x96\x87'.decode('utf-8')
+print(str)
+
+print(len('中文'))
+print(len(('中文').encode('utf-8')))

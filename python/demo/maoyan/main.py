@@ -3,11 +3,19 @@
 import re
 import requests
 import json
+from fake_useragent import UserAgent
 from multiprocessing import Pool
 
+ua = UserAgent()
 
 #获取 http 响应
 def getResponse(url):
+    # 请求头
+    headers = {
+        "User-Agent": ua.random
+    }
+    # 参数
+    params = {}
     response = requests.get(url, params = params, headers = headers)
     response.encoding = 'utf-8'
 
@@ -42,17 +50,9 @@ def getOnePage(url):
 def writeFile(item):
     with open('data.txt', 'a', encoding='utf-8') as f:
         f.write(json.dumps(item, ensure_ascii=False) + '\n')
+        print('写入成功', item)
         f.close()
 
-
-# 请求头
-headers = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/62.0.3202.62 Chrome/62.0.3202.62 Safari/537.36"
-}
-# 参数
-params = {
-
-}
 
 def main(offset = 0):
     url = 'http://maoyan.com/board/4?offset=' + str(offset)
@@ -63,5 +63,7 @@ def main(offset = 0):
 
 
 if __name__ == "__main__":
-    for i in range(10):
-        main(i * 10)
+    pool = Pool()
+    print('------开始抓取------')
+    pool.map(main, (i * 10 for i in range(10)))
+    print('------抓取完成------')
