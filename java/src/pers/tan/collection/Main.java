@@ -1,6 +1,8 @@
 package pers.tan.collection;
 
+
 import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * Main class
@@ -10,11 +12,6 @@ import java.util.*;
  */
 public class Main {
     public static void main(String[] args) {
-        ArrayList<String> list = new ArrayList<String>(Arrays.asList("a","b","c","d"));
-        for(String s:list){
-            if("a".equals(s)){
-                list.remove(s);
-            }
-        }
+
     }
 }
