@@ -28,6 +28,8 @@ public class Demo {
 
     public static void main(String[] args) {
         try {
+
+
             MyThread112 t1 = new MyThread112("t1");  // 新建“线程t1”
             System.out.println(t1.getName() + " (" + t1.getState() + ") is new.");
 

@@ -39,6 +39,7 @@ class Depot {
 
                 //满了
                 while (size >= capacity) {
+                    System.out.println("生产阻塞");
                     wait();
                 }
 

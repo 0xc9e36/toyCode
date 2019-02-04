@@ -2,6 +2,7 @@ package pers.tan.atomic;
 
 
 import java.util.concurrent.atomic.AtomicReference;
+import java.util.concurrent.atomic.AtomicStampedReference;
 
 public class AtomicReferenceTest {
 
@@ -14,6 +15,8 @@ public class AtomicReferenceTest {
 
         System.out.println(ar.get().getName());
         System.out.println(ar.get().getAge());
+
+
     }
 }
 

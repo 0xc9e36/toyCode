@@ -1,6 +1,10 @@
 package pers.tan.atomic;
 
+import sun.misc.Unsafe;
+
+import java.lang.reflect.Field;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.util.concurrent.atomic.AtomicLong;
 
 public class AtomicIntegerTest {
 
@@ -17,7 +21,16 @@ public class AtomicIntegerTest {
 
 
         temvalue = i.getAndAdd(5);
-        System.out.println("temvalue:" + temvalue + ";  i:" + i);//temvalue:4;  i:9
+        System.out.println("temvalue:" + temvalue + ";  i:" + i);//temvalue:4;  i:
+
+        try {
+            Field field = Unsafe.class.getDeclaredField("theUnsafe");
+            field.setAccessible(true);
+            Unsafe unsafe = (Unsafe) field.get(null);
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
     }
 
 }

@@ -4,6 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+        Thread.yield();
 
         HasSelfPrivateNum h1 = new HasSelfPrivateNum();
         //HasSelfPrivateNum h2 = new HasSelfPrivateNum();

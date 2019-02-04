@@ -1,19 +1,20 @@
 package pers.tan.atomic;
 
 import java.util.concurrent.atomic.AtomicIntegerFieldUpdater;
+import java.util.concurrent.atomic.AtomicStampedReference;
 
 public class AtomicIntegerFieldUpdaterTest {
     public static void main(String[] args) {
-        AtomicIntegerFieldUpdater<User> a = AtomicIntegerFieldUpdater.newUpdater(User.class, "age");
-
-        User user = new User("Java", 22);
-        System.out.println(a.getAndIncrement(user));// 22
-        System.out.println(a.get(user));// 23
+//        AtomicIntegerFieldUpdater<User> a = AtomicIntegerFieldUpdater.newUpdater(User.class, "age");
+//
+//        User user = new User("Java", 22);
+//        System.out.println(a.getAndIncrement(user));// 22
+//        System.out.println(a.get(user));// 23
     }
 }
 
 class User {
-    private String name;
+    private volatile String name;
     public volatile int age;
 
     public User(String name, int age) {
